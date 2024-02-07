@@ -4,6 +4,8 @@
 
 ให้ นศ. แก้ไขเว็บเพจต่อนี้ โดยเพิ่มข้อมูลของนักศึกษา (ชื่อ-สกุล, รหัสนักศึกษา) และรูปภาพ ลงไปในเว็บเพจในส่วนที่กำหนด
 
+---
+
 In this lab, you will get familiar with GitHub Classroom system. You need to join the classroom in order to get lab assignments and submit your work through the classroom.
 
 Modify this page by adding your student information (Name, student ID) as well as your photo.
